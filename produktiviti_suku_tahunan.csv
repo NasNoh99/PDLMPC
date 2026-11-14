@@ -1,0 +1,397 @@
+Aktiviti,Tahap,Sektor_Induk,Tahun,Suku,Tempoh,PerJam_RM,PerJam_YoY_pct,PerPekerja_RM,PerPekerja_YoY_pct,Pekerja_ribu,Pekerja_YoY_pct
+Pertanian,Sektor,,2022,1,ST1 2022,23.2,1.3,12367,2.5,1854,-0.8
+Pertanian,Sektor,,2022,2,ST2 2022,23.6,-2.7,12631,-0.9,1872,-0.7
+Pertanian,Sektor,,2022,3,ST3 2022,27.5,0.5,14923,3.2,1878,-0.6
+Pertanian,Sektor,,2022,4,ST4 2022,25.6,0.8,13898,3.1,1840,-0.5
+Pertanian,Sektor,,2023,1,ST1 2023,23.1,-0.7,12361,-0.05,1874,1.1
+Pertanian,Sektor,,2023,2,ST2 2023,22.9,-2.8,12478,-1.2,1877,0.2
+Pertanian,Sektor,,2023,3,ST3 2023,27.2,-1.4,14886,-0.2,1889,0.6
+Pertanian,Sektor,,2023,4,ST4 2023,25.6,0.3,13950,0.4,1854,0.8
+Pertanian,Sektor,,2024,1,ST1 2024,23.4,1.6,12608,2,1875,0.1
+Pertanian,Sektor,,2024,2,ST2 2024,24.8,8.1,13371,7.2,1890,0.7
+Pertanian,Sektor,,2024,3,ST3 2024,28.5,4.8,15473,3.9,1895,0.3
+Pertanian,Sektor,,2024,4,ST4 2024,25.6,-0.2,13834,-0.8,1864,0.5
+Pertanian,Sektor,,2025,1,ST1 2025,23.4,0.01,12690,0.6,1876,0.03
+Pertanian,Sektor,,2025,2,ST2 2025,25.5,2.8,13729,2.7,1887,-0.2
+Pertanian,Sektor,,2025,3,ST3 2025,28.5,0.2,15513,0.3,1893,-0.1
+Pertanian,Sektor,,2025,4,ST4 2025,27.1,5.8,14635,5.8,1863,-0.1
+Pertanian,Sektor,,2026,1,ST1 2026,24.3,3.6,13003,2.5,1878,0.1
+Pertanian,Sektor,,2026,2,ST2 2026,24.4,-4.4,13218,-3.7,1889,0.1
+Perlombongan dan pengkuarian,Sektor,,2022,1,ST1 2022,537.7,-4.7,321614,-3.6,76,2.6
+Perlombongan dan pengkuarian,Sektor,,2022,2,ST2 2022,531,-6.2,312691,-3.4,76,1.8
+Perlombongan dan pengkuarian,Sektor,,2022,3,ST3 2022,511.9,5.4,308085,10.1,76,0.4
+Perlombongan dan pengkuarian,Sektor,,2022,4,ST4 2022,558.2,5.1,335443,7,76,0.3
+Perlombongan dan pengkuarian,Sektor,,2023,1,ST1 2023,549.1,2.1,329680,2.5,76,0.5
+Perlombongan dan pengkuarian,Sektor,,2023,2,ST2 2023,495.7,-6.6,303373,-3,76,0.8
+Perlombongan dan pengkuarian,Sektor,,2023,3,ST3 2023,499.7,-2.4,300500,-2.5,76,0.4
+Perlombongan dan pengkuarian,Sektor,,2023,4,ST4 2023,564.7,1.2,345197,2.9,76,0.2
+Perlombongan dan pengkuarian,Sektor,,2024,1,ST1 2024,561.2,2.2,343093,4.1,76,0.1
+Perlombongan dan pengkuarian,Sektor,,2024,2,ST2 2024,511.5,3.2,310736,2.4,76,0.2
+Perlombongan dan pengkuarian,Sektor,,2024,3,ST3 2024,480.7,-3.8,292937,-2.5,76,0.1
+Perlombongan dan pengkuarian,Sektor,,2024,4,ST4 2024,568,0.6,344463,-0.2,77,0.4
+Perlombongan dan pengkuarian,Sektor,,2025,1,ST1 2025,551,-1.8,332687,-3,77,0.5
+Perlombongan dan pengkuarian,Sektor,,2025,2,ST2 2025,486.7,-4.9,292826,-5.8,77,0.6
+Perlombongan dan pengkuarian,Sektor,,2025,3,ST3 2025,520.6,8.3,317973,8.5,77,0.8
+Perlombongan dan pengkuarian,Sektor,,2025,4,ST4 2025,574.7,1.2,347087,0.8,77,0.7
+Perlombongan dan pengkuarian,Sektor,,2026,1,ST1 2026,537.6,-2.4,324338,-2.5,77,0.4
+Perlombongan dan pengkuarian,Sektor,,2026,2,ST2 2026,531,9.1,319799,9.2,77,0.02
+Pembuatan,Sektor,,2022,1,ST1 2022,54.9,-0.01,32271,2.9,2702,3.7
+Pembuatan,Sektor,,2022,2,ST2 2022,56.2,-1.8,32930,4.1,2705,4.9
+Pembuatan,Sektor,,2022,3,ST3 2022,58,1.4,33850,8.3,2731,4.5
+Pembuatan,Sektor,,2022,4,ST4 2022,58.6,0.4,34862,1.6,2740,2.3
+Pembuatan,Sektor,,2023,1,ST1 2023,55,0.2,32483,0.7,2771,2.6
+Pembuatan,Sektor,,2023,2,ST2 2023,54,-3.9,32084,-2.6,2780,2.8
+Pembuatan,Sektor,,2023,3,ST3 2023,55.3,-4.5,32815,-3.1,2814,3
+Pembuatan,Sektor,,2023,4,ST4 2023,56.9,-2.8,33757,-3.2,2823,3
+Pembuatan,Sektor,,2024,1,ST1 2024,54.9,-0.2,32730,0.8,2807,1.3
+Pembuatan,Sektor,,2024,2,ST2 2024,55.9,3.6,33206,3.5,2813,1.2
+Pembuatan,Sektor,,2024,3,ST3 2024,57.6,4.1,34385,4.8,2834,0.7
+Pembuatan,Sektor,,2024,4,ST4 2024,58.7,3.1,35014,3.7,2837,0.5
+Pembuatan,Sektor,,2025,1,ST1 2025,56.7,3.4,33763,3.2,2834,1
+Pembuatan,Sektor,,2025,2,ST2 2025,58,3.7,34174,2.9,2835,0.8
+Pembuatan,Sektor,,2025,3,ST3 2025,60.1,4.3,35746,4,2838,0.1
+Pembuatan,Sektor,,2025,4,ST4 2025,62.6,6.7,37042,5.8,2844,0.2
+Pembuatan,Sektor,,2026,1,ST1 2026,60,5.8,35725,5.8,2835,0.1
+Pembuatan,Sektor,,2026,2,ST2 2026,62.2,7.1,36653,7.3,2838,0.1
+Minyak dan lemak daripada sayuran & haiwan dan prosesan makanan,Subsektor,Pembuatan,2022,1,ST1 2022,25.6,-6.4,14650,-0.2,486,5.5
+Minyak dan lemak daripada sayuran & haiwan dan prosesan makanan,Subsektor,Pembuatan,2022,2,ST2 2022,30.4,-7.1,17066,-2.3,489,5.3
+Minyak dan lemak daripada sayuran & haiwan dan prosesan makanan,Subsektor,Pembuatan,2022,3,ST3 2022,32,-4.8,17884,-0.2,496,5.8
+Minyak dan lemak daripada sayuran & haiwan dan prosesan makanan,Subsektor,Pembuatan,2022,4,ST4 2022,30.3,-0.1,17167,0.7,502,3.9
+Minyak dan lemak daripada sayuran & haiwan dan prosesan makanan,Subsektor,Pembuatan,2023,1,ST1 2023,26.2,2.3,14980,2.3,510,4.9
+Minyak dan lemak daripada sayuran & haiwan dan prosesan makanan,Subsektor,Pembuatan,2023,2,ST2 2023,29.5,-2.9,16527,-3.2,516,5.5
+Minyak dan lemak daripada sayuran & haiwan dan prosesan makanan,Subsektor,Pembuatan,2023,3,ST3 2023,30.9,-3.4,17448,-2.4,530,6.8
+Minyak dan lemak daripada sayuran & haiwan dan prosesan makanan,Subsektor,Pembuatan,2023,4,ST4 2023,31.2,3,17478,1.8,529,5.4
+Minyak dan lemak daripada sayuran & haiwan dan prosesan makanan,Subsektor,Pembuatan,2024,1,ST1 2024,25.4,-2.9,14468,-3.4,527,3.4
+Minyak dan lemak daripada sayuran & haiwan dan prosesan makanan,Subsektor,Pembuatan,2024,2,ST2 2024,30.2,2.6,16947,2.5,528,2.4
+Minyak dan lemak daripada sayuran & haiwan dan prosesan makanan,Subsektor,Pembuatan,2024,3,ST3 2024,32.8,6.3,18719,7.3,531,0.3
+Minyak dan lemak daripada sayuran & haiwan dan prosesan makanan,Subsektor,Pembuatan,2024,4,ST4 2024,32.2,3.2,18498,5.8,532,0.5
+Minyak dan lemak daripada sayuran & haiwan dan prosesan makanan,Subsektor,Pembuatan,2025,1,ST1 2025,28,10,15648,8.2,532,1
+Minyak dan lemak daripada sayuran & haiwan dan prosesan makanan,Subsektor,Pembuatan,2025,2,ST2 2025,34.2,13,18832,11.1,531,0.6
+Minyak dan lemak daripada sayuran & haiwan dan prosesan makanan,Subsektor,Pembuatan,2025,3,ST3 2025,36.1,10.1,19912,6.4,533,0.3
+Minyak dan lemak daripada sayuran & haiwan dan prosesan makanan,Subsektor,Pembuatan,2025,4,ST4 2025,37.1,15.4,20296,9.7,533,0.3
+Minyak dan lemak daripada sayuran & haiwan dan prosesan makanan,Subsektor,Pembuatan,2026,1,ST1 2026,30.5,8.8,17027,8.8,534,0.3
+Minyak dan lemak daripada sayuran & haiwan dan prosesan makanan,Subsektor,Pembuatan,2026,2,ST2 2026,35.4,3.6,19289,2.4,534,0.5
+Minuman dan produk tembakau,Subsektor,Pembuatan,2022,1,ST1 2022,192,-0.8,114536,3.7,18,1.5
+Minuman dan produk tembakau,Subsektor,Pembuatan,2022,2,ST2 2022,251.7,20.2,145534,24.6,18,2.9
+Minuman dan produk tembakau,Subsektor,Pembuatan,2022,3,ST3 2022,199.4,44.9,117647,48.7,18,0.5
+Minuman dan produk tembakau,Subsektor,Pembuatan,2022,4,ST4 2022,211.6,-5.8,123741,-6.2,18,1.9
+Minuman dan produk tembakau,Subsektor,Pembuatan,2023,1,ST1 2023,202.6,5.5,118281,3.3,19,2.1
+Minuman dan produk tembakau,Subsektor,Pembuatan,2023,2,ST2 2023,244.5,-2.9,150533,3.4,19,5.1
+Minuman dan produk tembakau,Subsektor,Pembuatan,2023,3,ST3 2023,210.5,5.6,118090,0.4,19,4.1
+Minuman dan produk tembakau,Subsektor,Pembuatan,2023,4,ST4 2023,204.4,-3.4,126383,2.1,19,3.2
+Minuman dan produk tembakau,Subsektor,Pembuatan,2024,1,ST1 2024,191.1,-5.7,123921,4.8,19,1.8
+Minuman dan produk tembakau,Subsektor,Pembuatan,2024,2,ST2 2024,257.4,5.2,156507,4,19,3.8
+Minuman dan produk tembakau,Subsektor,Pembuatan,2024,3,ST3 2024,207.3,-1.6,126779,7.4,19,2.4
+Minuman dan produk tembakau,Subsektor,Pembuatan,2024,4,ST4 2024,217.5,6.4,132578,4.9,19,3
+Minuman dan produk tembakau,Subsektor,Pembuatan,2025,1,ST1 2025,199.9,4.6,125432,1.2,20,1.9
+Minuman dan produk tembakau,Subsektor,Pembuatan,2025,2,ST2 2025,239.2,-7.1,158351,1.2,20,2.9
+Minuman dan produk tembakau,Subsektor,Pembuatan,2025,3,ST3 2025,211.4,2,134892,6.4,20,2.7
+Minuman dan produk tembakau,Subsektor,Pembuatan,2025,4,ST4 2025,228.5,5.1,140265,5.8,20,2.3
+Minuman dan produk tembakau,Subsektor,Pembuatan,2026,1,ST1 2026,212.6,6.3,132612,5.7,20,1.2
+Minuman dan produk tembakau,Subsektor,Pembuatan,2026,2,ST2 2026,272,13.7,167202,5.6,20,0.7
+"Produk tekstil, pakaian dan kulit",Subsektor,Pembuatan,2022,1,ST1 2022,11,-3.7,5770,-0.9,278,5.9
+"Produk tekstil, pakaian dan kulit",Subsektor,Pembuatan,2022,2,ST2 2022,10.3,-7,5386,0.7,274,6.4
+"Produk tekstil, pakaian dan kulit",Subsektor,Pembuatan,2022,3,ST3 2022,10.9,1.5,5584,6.3,271,5.7
+"Produk tekstil, pakaian dan kulit",Subsektor,Pembuatan,2022,4,ST4 2022,11.6,1.2,6061,2.8,260,-3
+"Produk tekstil, pakaian dan kulit",Subsektor,Pembuatan,2023,1,ST1 2023,11.5,4.4,6196,7.4,261,-6.1
+"Produk tekstil, pakaian dan kulit",Subsektor,Pembuatan,2023,2,ST2 2023,10.7,3.8,5843,8.5,262,-4.4
+"Produk tekstil, pakaian dan kulit",Subsektor,Pembuatan,2023,3,ST3 2023,11.2,2.8,5801,3.9,262,-3.3
+"Produk tekstil, pakaian dan kulit",Subsektor,Pembuatan,2023,4,ST4 2023,11.8,1.5,5980,-1.3,263,1.3
+"Produk tekstil, pakaian dan kulit",Subsektor,Pembuatan,2024,1,ST1 2024,11.9,3.1,6251,0.9,263,0.7
+"Produk tekstil, pakaian dan kulit",Subsektor,Pembuatan,2024,2,ST2 2024,11.4,6.8,6045,3.4,263,0.2
+"Produk tekstil, pakaian dan kulit",Subsektor,Pembuatan,2024,3,ST3 2024,11.3,1,6035,4,263,0.6
+"Produk tekstil, pakaian dan kulit",Subsektor,Pembuatan,2024,4,ST4 2024,11.9,1,6014,0.6,263,-0.1
+"Produk tekstil, pakaian dan kulit",Subsektor,Pembuatan,2025,1,ST1 2025,12.4,4.3,6310,0.9,263,0.1
+"Produk tekstil, pakaian dan kulit",Subsektor,Pembuatan,2025,2,ST2 2025,11.1,-2.6,6028,-0.3,263,0.1
+"Produk tekstil, pakaian dan kulit",Subsektor,Pembuatan,2025,3,ST3 2025,11.2,-0.7,6030,-0.1,263,-0.03
+"Produk tekstil, pakaian dan kulit",Subsektor,Pembuatan,2025,4,ST4 2025,12,0.4,6106,1.5,263,0.1
+"Produk tekstil, pakaian dan kulit",Subsektor,Pembuatan,2026,1,ST1 2026,12.3,-1.1,6352,0.7,264,0.2
+"Produk tekstil, pakaian dan kulit",Subsektor,Pembuatan,2026,2,ST2 2026,11.3,1.9,6075,0.8,264,0.4
+"Produk kayu, perabot, keluaran kertas dan percetakan",Subsektor,Pembuatan,2022,1,ST1 2022,33.9,0.7,20120,4.7,309,2.1
+"Produk kayu, perabot, keluaran kertas dan percetakan",Subsektor,Pembuatan,2022,2,ST2 2022,31.2,-6.1,18831,5.5,304,6.3
+"Produk kayu, perabot, keluaran kertas dan percetakan",Subsektor,Pembuatan,2022,3,ST3 2022,29.2,-3.2,17561,12.3,309,3.1
+"Produk kayu, perabot, keluaran kertas dan percetakan",Subsektor,Pembuatan,2022,4,ST4 2022,29,-7.4,18049,-2.6,308,-0.1
+"Produk kayu, perabot, keluaran kertas dan percetakan",Subsektor,Pembuatan,2023,1,ST1 2023,31.8,-6.4,19143,-4.9,312,0.9
+"Produk kayu, perabot, keluaran kertas dan percetakan",Subsektor,Pembuatan,2023,2,ST2 2023,29.2,-6.2,17771,-5.6,318,4.4
+"Produk kayu, perabot, keluaran kertas dan percetakan",Subsektor,Pembuatan,2023,3,ST3 2023,27.3,-6.4,16882,-3.9,324,4.7
+"Produk kayu, perabot, keluaran kertas dan percetakan",Subsektor,Pembuatan,2023,4,ST4 2023,29,0.1,17708,-1.9,326,5.8
+"Produk kayu, perabot, keluaran kertas dan percetakan",Subsektor,Pembuatan,2024,1,ST1 2024,32.3,1.8,19374,1.2,321,3
+"Produk kayu, perabot, keluaran kertas dan percetakan",Subsektor,Pembuatan,2024,2,ST2 2024,30.8,5.4,18417,3.6,322,1.5
+"Produk kayu, perabot, keluaran kertas dan percetakan",Subsektor,Pembuatan,2024,3,ST3 2024,29.7,8.5,17875,5.9,326,0.6
+"Produk kayu, perabot, keluaran kertas dan percetakan",Subsektor,Pembuatan,2024,4,ST4 2024,30.5,5.2,18393,3.9,328,0.6
+"Produk kayu, perabot, keluaran kertas dan percetakan",Subsektor,Pembuatan,2025,1,ST1 2025,33,1.9,19723,1.8,326,1.3
+"Produk kayu, perabot, keluaran kertas dan percetakan",Subsektor,Pembuatan,2025,2,ST2 2025,31.5,2.2,18808,2.1,326,1.2
+"Produk kayu, perabot, keluaran kertas dan percetakan",Subsektor,Pembuatan,2025,3,ST3 2025,30.5,2.8,18496,3.5,326,0.1
+"Produk kayu, perabot, keluaran kertas dan percetakan",Subsektor,Pembuatan,2025,4,ST4 2025,30.8,0.9,18994,3.3,329,0.1
+"Produk kayu, perabot, keluaran kertas dan percetakan",Subsektor,Pembuatan,2026,1,ST1 2026,34,3,20271,2.8,329,1.1
+"Produk kayu, perabot, keluaran kertas dan percetakan",Subsektor,Pembuatan,2026,2,ST2 2026,32.2,2.2,19595,4.2,329,0.7
+"Produk petroleum, kimia, getah dan plastik",Subsektor,Pembuatan,2022,1,ST1 2022,90,-4.5,54618,-2.9,435,2.6
+"Produk petroleum, kimia, getah dan plastik",Subsektor,Pembuatan,2022,2,ST2 2022,92.4,-5.4,55699,-3.2,435,2.5
+"Produk petroleum, kimia, getah dan plastik",Subsektor,Pembuatan,2022,3,ST3 2022,106.7,-1.3,64371,0.7,439,3.5
+"Produk petroleum, kimia, getah dan plastik",Subsektor,Pembuatan,2022,4,ST4 2022,99.7,-1.4,61387,-0.9,434,1.9
+"Produk petroleum, kimia, getah dan plastik",Subsektor,Pembuatan,2023,1,ST1 2023,89.7,-0.3,54952,0.6,440,1.2
+"Produk petroleum, kimia, getah dan plastik",Subsektor,Pembuatan,2023,2,ST2 2023,88.2,-4.6,54560,-2,437,0.4
+"Produk petroleum, kimia, getah dan plastik",Subsektor,Pembuatan,2023,3,ST3 2023,101.6,-4.8,62433,-3,442,0.6
+"Produk petroleum, kimia, getah dan plastik",Subsektor,Pembuatan,2023,4,ST4 2023,96.8,-3,59465,-3.1,445,2.6
+"Produk petroleum, kimia, getah dan plastik",Subsektor,Pembuatan,2024,1,ST1 2024,86.5,-3.6,54853,-0.2,446,1.4
+"Produk petroleum, kimia, getah dan plastik",Subsektor,Pembuatan,2024,2,ST2 2024,86.2,-2.2,55863,2.4,445,1.7
+"Produk petroleum, kimia, getah dan plastik",Subsektor,Pembuatan,2024,3,ST3 2024,102.5,0.9,64238,2.9,449,1.5
+"Produk petroleum, kimia, getah dan plastik",Subsektor,Pembuatan,2024,4,ST4 2024,98.6,1.8,60851,2.3,448,0.7
+"Produk petroleum, kimia, getah dan plastik",Subsektor,Pembuatan,2025,1,ST1 2025,89.4,3.3,56319,2.7,446,-0.1
+"Produk petroleum, kimia, getah dan plastik",Subsektor,Pembuatan,2025,2,ST2 2025,92.5,7.4,55846,-0.03,441,-0.8
+"Produk petroleum, kimia, getah dan plastik",Subsektor,Pembuatan,2025,3,ST3 2025,106.5,3.9,65465,1.9,438,-2.3
+"Produk petroleum, kimia, getah dan plastik",Subsektor,Pembuatan,2025,4,ST4 2025,101.1,2.6,61968,1.8,439,-2.1
+"Produk petroleum, kimia, getah dan plastik",Subsektor,Pembuatan,2026,1,ST1 2026,91.3,2.2,57204,1.6,433,-2.8
+"Produk petroleum, kimia, getah dan plastik",Subsektor,Pembuatan,2026,2,ST2 2026,96.3,4.1,59018,5.7,431,-2.3
+"Produk mineral bukan logam, logam asas dan produk logam yang direka",Subsektor,Pembuatan,2022,1,ST1 2022,40.4,3.4,24172,3.4,379,1.9
+"Produk mineral bukan logam, logam asas dan produk logam yang direka",Subsektor,Pembuatan,2022,2,ST2 2022,40.1,-0.9,24116,5.7,374,4.5
+"Produk mineral bukan logam, logam asas dan produk logam yang direka",Subsektor,Pembuatan,2022,3,ST3 2022,39.2,-0.1,23734,9.9,376,3.4
+"Produk mineral bukan logam, logam asas dan produk logam yang direka",Subsektor,Pembuatan,2022,4,ST4 2022,41.7,1.4,25297,0.9,379,1.3
+"Produk mineral bukan logam, logam asas dan produk logam yang direka",Subsektor,Pembuatan,2023,1,ST1 2023,41.2,1.9,24770,2.5,383,1
+"Produk mineral bukan logam, logam asas dan produk logam yang direka",Subsektor,Pembuatan,2023,2,ST2 2023,41.6,3.9,25065,3.9,379,1.4
+"Produk mineral bukan logam, logam asas dan produk logam yang direka",Subsektor,Pembuatan,2023,3,ST3 2023,40.2,2.5,24257,2.2,388,3.2
+"Produk mineral bukan logam, logam asas dan produk logam yang direka",Subsektor,Pembuatan,2023,4,ST4 2023,42.9,2.7,25999,2.8,392,3.4
+"Produk mineral bukan logam, logam asas dan produk logam yang direka",Subsektor,Pembuatan,2024,1,ST1 2024,43.6,6,26152,5.6,389,1.7
+"Produk mineral bukan logam, logam asas dan produk logam yang direka",Subsektor,Pembuatan,2024,2,ST2 2024,45,8.3,26767,6.8,388,2.4
+"Produk mineral bukan logam, logam asas dan produk logam yang direka",Subsektor,Pembuatan,2024,3,ST3 2024,43.2,7.3,25971,7.1,395,2
+"Produk mineral bukan logam, logam asas dan produk logam yang direka",Subsektor,Pembuatan,2024,4,ST4 2024,43.2,0.7,26736,2.8,398,1.4
+"Produk mineral bukan logam, logam asas dan produk logam yang direka",Subsektor,Pembuatan,2025,1,ST1 2025,42.6,-2.3,26477,1.2,398,2.3
+"Produk mineral bukan logam, logam asas dan produk logam yang direka",Subsektor,Pembuatan,2025,2,ST2 2025,45.4,0.7,27327,2.1,395,1.7
+"Produk mineral bukan logam, logam asas dan produk logam yang direka",Subsektor,Pembuatan,2025,3,ST3 2025,43.5,0.7,26880,3.5,396,0.1
+"Produk mineral bukan logam, logam asas dan produk logam yang direka",Subsektor,Pembuatan,2025,4,ST4 2025,46.5,7.6,28096,5.1,397,-0.1
+"Produk mineral bukan logam, logam asas dan produk logam yang direka",Subsektor,Pembuatan,2026,1,ST1 2026,45,5.5,27745,4.8,399,0.2
+"Produk mineral bukan logam, logam asas dan produk logam yang direka",Subsektor,Pembuatan,2026,2,ST2 2026,47.3,4.3,28559,4.5,399,0.9
+"Produk elektrik, elektronik dan optikal",Subsektor,Pembuatan,2022,1,ST1 2022,83.6,8,50253,10.6,600,4.3
+"Produk elektrik, elektronik dan optikal",Subsektor,Pembuatan,2022,2,ST2 2022,78.2,3.8,46829,10,615,5
+"Produk elektrik, elektronik dan optikal",Subsektor,Pembuatan,2022,3,ST3 2022,79.6,5.8,47459,11.5,624,5.2
+"Produk elektrik, elektronik dan optikal",Subsektor,Pembuatan,2022,4,ST4 2022,80.2,3.7,49131,4.9,632,4.1
+"Produk elektrik, elektronik dan optikal",Subsektor,Pembuatan,2023,1,ST1 2023,82.8,-0.9,49128,-2.2,637,6.2
+"Produk elektrik, elektronik dan optikal",Subsektor,Pembuatan,2023,2,ST2 2023,72.4,-7.5,44259,-5.5,641,4.3
+"Produk elektrik, elektronik dan optikal",Subsektor,Pembuatan,2023,3,ST3 2023,73.5,-7.7,44989,-5.2,642,2.8
+"Produk elektrik, elektronik dan optikal",Subsektor,Pembuatan,2023,4,ST4 2023,73.6,-8.2,45541,-7.3,641,1.4
+"Produk elektrik, elektronik dan optikal",Subsektor,Pembuatan,2024,1,ST1 2024,81.4,-1.7,49919,1.6,632,-0.7
+"Produk elektrik, elektronik dan optikal",Subsektor,Pembuatan,2024,2,ST2 2024,76.2,5.3,45959,3.8,636,-0.8
+"Produk elektrik, elektronik dan optikal",Subsektor,Pembuatan,2024,3,ST3 2024,77.4,5.3,47637,5.9,640,-0.2
+"Produk elektrik, elektronik dan optikal",Subsektor,Pembuatan,2024,4,ST4 2024,79.1,7.4,48770,7.1,642,0.1
+"Produk elektrik, elektronik dan optikal",Subsektor,Pembuatan,2025,1,ST1 2025,86.5,6.2,53162,6.5,640,1.2
+"Produk elektrik, elektronik dan optikal",Subsektor,Pembuatan,2025,2,ST2 2025,79.2,3.9,48459,5.4,647,1.8
+"Produk elektrik, elektronik dan optikal",Subsektor,Pembuatan,2025,3,ST3 2025,82.9,7,50945,6.9,648,1.3
+"Produk elektrik, elektronik dan optikal",Subsektor,Pembuatan,2025,4,ST4 2025,88.4,11.9,54338,11.4,649,1.2
+"Produk elektrik, elektronik dan optikal",Subsektor,Pembuatan,2026,1,ST1 2026,96.8,11.9,59581,12.1,644,0.6
+"Produk elektrik, elektronik dan optikal",Subsektor,Pembuatan,2026,2,ST2 2026,91,14.9,55327,14.2,648,0.2
+"Peralatan pengangkutan, pembuatan lain dan pembaikan",Subsektor,Pembuatan,2022,1,ST1 2022,59,-4.6,36020,-1.4,196,4
+"Peralatan pengangkutan, pembuatan lain dan pembaikan",Subsektor,Pembuatan,2022,2,ST2 2022,75.7,7.5,45492,12.8,195,6.8
+"Peralatan pengangkutan, pembuatan lain dan pembaikan",Subsektor,Pembuatan,2022,3,ST3 2022,65.7,19,39019,30.8,197,4.9
+"Peralatan pengangkutan, pembuatan lain dan pembaikan",Subsektor,Pembuatan,2022,4,ST4 2022,82.4,-2.1,49551,-2.1,207,7.2
+"Peralatan pengangkutan, pembuatan lain dan pembaikan",Subsektor,Pembuatan,2023,1,ST1 2023,59,0,36277,0.7,210,7
+"Peralatan pengangkutan, pembuatan lain dan pembaikan",Subsektor,Pembuatan,2023,2,ST2 2023,72.3,-4.5,43129,-5.2,207,6.2
+"Peralatan pengangkutan, pembuatan lain dan pembaikan",Subsektor,Pembuatan,2023,3,ST3 2023,64.4,-2,38620,-1,208,5.5
+"Peralatan pengangkutan, pembuatan lain dan pembaikan",Subsektor,Pembuatan,2023,4,ST4 2023,83.4,1.2,50478,1.9,208,0.4
+"Peralatan pengangkutan, pembuatan lain dan pembaikan",Subsektor,Pembuatan,2024,1,ST1 2024,60.9,3.1,37283,2.8,209,-0.6
+"Peralatan pengangkutan, pembuatan lain dan pembaikan",Subsektor,Pembuatan,2024,2,ST2 2024,73.9,2.3,44799,3.9,211,1.6
+"Peralatan pengangkutan, pembuatan lain dan pembaikan",Subsektor,Pembuatan,2024,3,ST3 2024,63.6,-1.2,38502,-0.3,211,1.3
+"Peralatan pengangkutan, pembuatan lain dan pembaikan",Subsektor,Pembuatan,2024,4,ST4 2024,80.6,-3.4,48787,-3.4,208,-0.01
+"Peralatan pengangkutan, pembuatan lain dan pembaikan",Subsektor,Pembuatan,2025,1,ST1 2025,56.5,-7.2,34148,-8.4,209,0.4
+"Peralatan pengangkutan, pembuatan lain dan pembaikan",Subsektor,Pembuatan,2025,2,ST2 2025,72.9,-1.4,43688,-2.5,211,0.3
+"Peralatan pengangkutan, pembuatan lain dan pembaikan",Subsektor,Pembuatan,2025,3,ST3 2025,63.1,-0.8,38529,0.1,213,1.1
+"Peralatan pengangkutan, pembuatan lain dan pembaikan",Subsektor,Pembuatan,2025,4,ST4 2025,77.5,-3.8,48023,-1.6,214,3.3
+"Peralatan pengangkutan, pembuatan lain dan pembaikan",Subsektor,Pembuatan,2026,1,ST1 2026,53.8,-4.8,32983,-3.4,213,1.5
+"Peralatan pengangkutan, pembuatan lain dan pembaikan",Subsektor,Pembuatan,2026,2,ST2 2026,74.4,2,45274,3.6,213,0.8
+Pembinaan,Sektor,,2022,1,ST1 2022,15.7,-8,9367,-5.4,1382,-0.6
+Pembinaan,Sektor,,2022,2,ST2 2022,15.9,-5,9383,3.2,1383,-0.5
+Pembinaan,Sektor,,2022,3,ST3 2022,16.6,-2.1,9885,14.8,1378,0.3
+Pembinaan,Sektor,,2022,4,ST4 2022,16.8,8.2,10032,10.3,1387,0.02
+Pembinaan,Sektor,,2023,1,ST1 2023,16.6,6.1,9961,6.3,1391,0.7
+Pembinaan,Sektor,,2023,2,ST2 2023,16.4,3,9827,4.7,1397,1
+Pembinaan,Sektor,,2023,3,ST3 2023,17.5,5.5,10485,6.1,1398,1.4
+Pembinaan,Sektor,,2023,4,ST4 2023,17.2,2.4,10247,2.1,1403,1.2
+Pembinaan,Sektor,,2024,1,ST1 2024,18.6,12,11054,11,1402,0.8
+Pembinaan,Sektor,,2024,2,ST2 2024,19.6,19.2,11476,16.8,1405,0.6
+Pembinaan,Sektor,,2024,3,ST3 2024,21,20.4,12507,19.3,1407,0.6
+Pembinaan,Sektor,,2024,4,ST4 2024,20.5,19.3,12315,20.2,1411,0.6
+Pembinaan,Sektor,,2025,1,ST1 2025,20.9,12.4,12539,13.4,1411,0.7
+Pembinaan,Sektor,,2025,2,ST2 2025,21.5,10,12767,11.3,1416,0.8
+Pembinaan,Sektor,,2025,3,ST3 2025,23.2,10.3,13866,10.9,1418,0.8
+Pembinaan,Sektor,,2025,4,ST4 2025,22.8,10.8,13576,10.2,1420,0.6
+Pembinaan,Sektor,,2026,1,ST1 2026,22.5,7.8,13420,7,1421,0.7
+Pembinaan,Sektor,,2026,2,ST2 2026,22.7,5.6,13529,6,1423,0.5
+Perkhidmatan,Sektor,,2022,1,ST1 2022,38.3,1.2,21972,3.5,9561,2.8
+Perkhidmatan,Sektor,,2022,2,ST2 2022,39.3,4.6,22331,8.1,9666,4.2
+Perkhidmatan,Sektor,,2022,3,ST3 2022,40.5,6.4,23049,11.9,9768,4.8
+Perkhidmatan,Sektor,,2022,4,ST4 2022,41,2.7,23618,4.3,9899,4.7
+Perkhidmatan,Sektor,,2023,1,ST1 2023,39.4,2.8,22659,3.1,9949,4.1
+Perkhidmatan,Sektor,,2023,2,ST2 2023,39.2,-0.1,22505,0.8,10017,3.6
+Perkhidmatan,Sektor,,2023,3,ST3 2023,40.5,0.1,23466,1.8,10074,3.1
+Perkhidmatan,Sektor,,2023,4,ST4 2023,41.6,1.5,23903,1.2,10190,2.9
+Perkhidmatan,Sektor,,2024,1,ST1 2024,40.5,2.8,23386,3.2,10098,1.5
+Perkhidmatan,Sektor,,2024,2,ST2 2024,40.7,3.8,23372,3.9,10224,2.1
+Perkhidmatan,Sektor,,2024,3,ST3 2024,41.9,3.3,24178,3,10291,2.1
+Perkhidmatan,Sektor,,2024,4,ST4 2024,42.9,3.1,24829,3.9,10341,1.5
+Perkhidmatan,Sektor,,2025,1,ST1 2025,41.5,2.5,23938,2.4,10366,2.7
+Perkhidmatan,Sektor,,2025,2,ST2 2025,42.1,3.5,24220,3.6,10372,1.4
+Perkhidmatan,Sektor,,2025,3,ST3 2025,43.7,4.4,25200,4.2,10397,1
+Perkhidmatan,Sektor,,2025,4,ST4 2025,45.2,5.4,26032,4.8,10473,1.3
+Perkhidmatan,Sektor,,2026,1,ST1 2026,43.4,4.5,24915,4.1,10515,1.4
+Perkhidmatan,Sektor,,2026,2,ST2 2026,44.4,5.4,25236,4.2,10539,1.6
+Utiliti,Subsektor,Perkhidmatan,2022,1,ST1 2022,153.7,-2.8,90921,0.9,107,1.1
+Utiliti,Subsektor,Perkhidmatan,2022,2,ST2 2022,163.8,-1.4,93281,0.6,108,3.3
+Utiliti,Subsektor,Perkhidmatan,2022,3,ST3 2022,163.3,-5.4,93799,2.7,110,5.1
+Utiliti,Subsektor,Perkhidmatan,2022,4,ST4 2022,152.3,-7.9,93075,-3.2,110,3.8
+Utiliti,Subsektor,Perkhidmatan,2023,1,ST1 2023,150.1,-2.4,91016,0.1,108,0.7
+Utiliti,Subsektor,Perkhidmatan,2023,2,ST2 2023,161.7,-1.3,96107,3,109,0.6
+Utiliti,Subsektor,Perkhidmatan,2023,3,ST3 2023,159,-2.6,95616,1.9,110,0.2
+Utiliti,Subsektor,Perkhidmatan,2023,4,ST4 2023,160.3,5.3,95653,2.8,112,1.7
+Utiliti,Subsektor,Perkhidmatan,2024,1,ST1 2024,163.8,9.2,96917,6.5,109,1.6
+Utiliti,Subsektor,Perkhidmatan,2024,2,ST2 2024,167.9,3.8,97424,1.4,112,3.4
+Utiliti,Subsektor,Perkhidmatan,2024,3,ST3 2024,163.8,3,97182,1.6,113,2.3
+Utiliti,Subsektor,Perkhidmatan,2024,4,ST4 2024,166.1,3.6,95531,-0.1,114,1.4
+Utiliti,Subsektor,Perkhidmatan,2025,1,ST1 2025,150.8,-7.9,89179,-8,116,6.2
+Utiliti,Subsektor,Perkhidmatan,2025,2,ST2 2025,163.7,-2.5,95297,-2.2,114,1.5
+Utiliti,Subsektor,Perkhidmatan,2025,3,ST3 2025,162.9,-0.6,96720,-0.5,114,1
+Utiliti,Subsektor,Perkhidmatan,2025,4,ST4 2025,161.8,-2.6,95985,0.5,117,2.6
+Utiliti,Subsektor,Perkhidmatan,2026,1,ST1 2026,154.5,2.4,91089,2.1,118,2
+Utiliti,Subsektor,Perkhidmatan,2026,2,ST2 2026,167.6,2.4,99598,4.5,116,1.7
+Perdagangan borong dan runcit,Subsektor,Perkhidmatan,2022,1,ST1 2022,38.3,-2.3,22312,-0.6,2704,4.9
+Perdagangan borong dan runcit,Subsektor,Perkhidmatan,2022,2,ST2 2022,40.2,6.3,23311,11.2,2745,6
+Perdagangan borong dan runcit,Subsektor,Perkhidmatan,2022,3,ST3 2022,42.7,10.9,24950,18.1,2766,5.4
+Perdagangan borong dan runcit,Subsektor,Perkhidmatan,2022,4,ST4 2022,43.6,1.7,26000,4.8,2793,4.8
+Perdagangan borong dan runcit,Subsektor,Perkhidmatan,2023,1,ST1 2023,40.3,5.3,23792,6.6,2785,3
+Perdagangan borong dan runcit,Subsektor,Perkhidmatan,2023,2,ST2 2023,40.5,0.8,23933,2.7,2798,1.9
+Perdagangan borong dan runcit,Subsektor,Perkhidmatan,2023,3,ST3 2023,44.1,3.4,25870,3.7,2817,1.9
+Perdagangan borong dan runcit,Subsektor,Perkhidmatan,2023,4,ST4 2023,45.9,5.2,26694,2.7,2842,1.8
+Perdagangan borong dan runcit,Subsektor,Perkhidmatan,2024,1,ST1 2024,41.2,2.1,24253,1.9,2840,2
+Perdagangan borong dan runcit,Subsektor,Perkhidmatan,2024,2,ST2 2024,41.9,3.5,24511,2.4,2858,2.2
+Perdagangan borong dan runcit,Subsektor,Perkhidmatan,2024,3,ST3 2024,44.5,0.9,26304,1.7,2886,2.4
+Perdagangan borong dan runcit,Subsektor,Perkhidmatan,2024,4,ST4 2024,46.4,1.2,27391,2.6,2891,1.7
+Perdagangan borong dan runcit,Subsektor,Perkhidmatan,2025,1,ST1 2025,42.1,2.3,24672,1.7,2914,2.6
+Perdagangan borong dan runcit,Subsektor,Perkhidmatan,2025,2,ST2 2025,43.4,3.7,25089,2.4,2914,1.9
+Perdagangan borong dan runcit,Subsektor,Perkhidmatan,2025,3,ST3 2025,46.7,4.9,27308,3.8,2914,1
+Perdagangan borong dan runcit,Subsektor,Perkhidmatan,2025,4,ST4 2025,48.3,3.9,28466,3.9,2941,1.8
+Perdagangan borong dan runcit,Subsektor,Perkhidmatan,2026,1,ST1 2026,43.7,3.6,25540,3.5,2951,1.3
+Perdagangan borong dan runcit,Subsektor,Perkhidmatan,2026,2,ST2 2026,44.7,3,25913,3.3,2955,1.4
+Makanan & minuman dan penginapan,Subsektor,Perkhidmatan,2022,1,ST1 2022,10.6,13.9,6092,18.8,1694,3.9
+Makanan & minuman dan penginapan,Subsektor,Perkhidmatan,2022,2,ST2 2022,11.3,29.2,6333,33.3,1709,4.5
+Makanan & minuman dan penginapan,Subsektor,Perkhidmatan,2022,3,ST3 2022,11.4,42.9,6474,46.3,1730,5.3
+Makanan & minuman dan penginapan,Subsektor,Perkhidmatan,2022,4,ST4 2022,11.6,19,6481,16.4,1782,7.5
+Makanan & minuman dan penginapan,Subsektor,Perkhidmatan,2023,1,ST1 2023,11.1,5.1,6324,3.8,1826,7.8
+Makanan & minuman dan penginapan,Subsektor,Perkhidmatan,2023,2,ST2 2023,11,-2.6,6199,-2.1,1861,8.9
+Makanan & minuman dan penginapan,Subsektor,Perkhidmatan,2023,3,ST3 2023,10.8,-5.1,6270,-3.2,1880,8.7
+Makanan & minuman dan penginapan,Subsektor,Perkhidmatan,2023,4,ST4 2023,11,-5.4,6218,-4.1,1933,8.5
+Makanan & minuman dan penginapan,Subsektor,Perkhidmatan,2024,1,ST1 2024,11.5,3.9,6538,3.4,1863,2
+Makanan & minuman dan penginapan,Subsektor,Perkhidmatan,2024,2,ST2 2024,11.4,3.1,6425,3.6,1905,2.4
+Makanan & minuman dan penginapan,Subsektor,Perkhidmatan,2024,3,ST3 2024,11.5,5.7,6504,3.7,1926,2.4
+Makanan & minuman dan penginapan,Subsektor,Perkhidmatan,2024,4,ST4 2024,11.5,4.4,6593,6,1955,1.1
+Makanan & minuman dan penginapan,Subsektor,Perkhidmatan,2025,1,ST1 2025,11.8,2.5,6795,3.9,1932,3.7
+Makanan & minuman dan penginapan,Subsektor,Perkhidmatan,2025,2,ST2 2025,11.8,3.8,6874,7,1940,1.8
+Makanan & minuman dan penginapan,Subsektor,Perkhidmatan,2025,3,ST3 2025,12.5,9.2,7101,9.2,1931,0.3
+Makanan & minuman dan penginapan,Subsektor,Perkhidmatan,2025,4,ST4 2025,13,13.7,7238,9.8,1959,0.2
+Makanan & minuman dan penginapan,Subsektor,Perkhidmatan,2026,1,ST1 2026,12.8,8.2,7163,5.4,1979,2.5
+Makanan & minuman dan penginapan,Subsektor,Perkhidmatan,2026,2,ST2 2026,12.9,9.2,7154,4.1,1986,2.4
+Pengangkutan dan penyimpanan,Subsektor,Perkhidmatan,2022,1,ST1 2022,38.3,18.1,23147,21.5,559,0.5
+Pengangkutan dan penyimpanan,Subsektor,Perkhidmatan,2022,2,ST2 2022,40.4,21.8,24196,26.4,566,8.4
+Pengangkutan dan penyimpanan,Subsektor,Perkhidmatan,2022,3,ST3 2022,40.8,20.9,24466,27.9,576,11.2
+Pengangkutan dan penyimpanan,Subsektor,Perkhidmatan,2022,4,ST4 2022,39.7,6.7,24394,9.5,595,9.5
+Pengangkutan dan penyimpanan,Subsektor,Perkhidmatan,2023,1,ST1 2023,41.2,7.4,24886,7.5,600,7.4
+Pengangkutan dan penyimpanan,Subsektor,Perkhidmatan,2023,2,ST2 2023,42.8,5.8,25840,6.8,603,6.5
+Pengangkutan dan penyimpanan,Subsektor,Perkhidmatan,2023,3,ST3 2023,43.3,6.2,26151,6.9,604,4.9
+Pengangkutan dan penyimpanan,Subsektor,Perkhidmatan,2023,4,ST4 2023,44.2,11.1,26874,10.2,610,2.4
+Pengangkutan dan penyimpanan,Subsektor,Perkhidmatan,2024,1,ST1 2024,45.6,10.9,27034,8.6,615,2.4
+Pengangkutan dan penyimpanan,Subsektor,Perkhidmatan,2024,2,ST2 2024,47.3,10.5,27833,7.7,619,2.6
+Pengangkutan dan penyimpanan,Subsektor,Perkhidmatan,2024,3,ST3 2024,47.9,10.7,28273,8.1,619,2.4
+Pengangkutan dan penyimpanan,Subsektor,Perkhidmatan,2024,4,ST4 2024,48.6,10.1,29188,8.6,623,2.2
+Pengangkutan dan penyimpanan,Subsektor,Perkhidmatan,2025,1,ST1 2025,49.4,8.3,29259,8.2,625,1.5
+Pengangkutan dan penyimpanan,Subsektor,Perkhidmatan,2025,2,ST2 2025,50,5.7,29594,6.3,634,2.5
+Pengangkutan dan penyimpanan,Subsektor,Perkhidmatan,2025,3,ST3 2025,49.9,4.1,29994,6.1,631,2
+Pengangkutan dan penyimpanan,Subsektor,Perkhidmatan,2025,4,ST4 2025,52.1,7.1,31110,6.6,636,2.1
+Pengangkutan dan penyimpanan,Subsektor,Perkhidmatan,2026,1,ST1 2026,52.2,5.7,31375,7.2,632,1.2
+Pengangkutan dan penyimpanan,Subsektor,Perkhidmatan,2026,2,ST2 2026,52.9,5.9,31284,5.7,642,1.3
+Maklumat dan komunikasi,Subsektor,Perkhidmatan,2022,1,ST1 2022,165,-0.3,97398,1.6,252,4.5
+Maklumat dan komunikasi,Subsektor,Perkhidmatan,2022,2,ST2 2022,166.3,1.5,96317,1.9,257,3.9
+Maklumat dan komunikasi,Subsektor,Perkhidmatan,2022,3,ST3 2022,159.3,-4.3,95993,0.4,261,3.9
+Maklumat dan komunikasi,Subsektor,Perkhidmatan,2022,4,ST4 2022,153.2,-3.3,93887,0.8,267,3.4
+Maklumat dan komunikasi,Subsektor,Perkhidmatan,2023,1,ST1 2023,164.1,-0.6,95234,-2.2,268,6.2
+Maklumat dan komunikasi,Subsektor,Perkhidmatan,2023,2,ST2 2023,162.4,-2.3,95108,-1.3,270,5
+Maklumat dan komunikasi,Subsektor,Perkhidmatan,2023,3,ST3 2023,161.7,1.5,95125,-0.9,272,4.5
+Maklumat dan komunikasi,Subsektor,Perkhidmatan,2023,4,ST4 2023,158,3.2,93909,0.02,276,3.2
+Maklumat dan komunikasi,Subsektor,Perkhidmatan,2024,1,ST1 2024,162.2,-1.1,96210,1,273,1.9
+Maklumat dan komunikasi,Subsektor,Perkhidmatan,2024,2,ST2 2024,163.1,0.5,96203,1.2,275,2
+Maklumat dan komunikasi,Subsektor,Perkhidmatan,2024,3,ST3 2024,163.2,0.9,96274,1.2,279,2.3
+Maklumat dan komunikasi,Subsektor,Perkhidmatan,2024,4,ST4 2024,162.6,2.9,95671,1.9,282,2.3
+Maklumat dan komunikasi,Subsektor,Perkhidmatan,2025,1,ST1 2025,167.8,3.5,98691,2.6,282,3.1
+Maklumat dan komunikasi,Subsektor,Perkhidmatan,2025,2,ST2 2025,175.1,7.3,101403,5.4,278,0.8
+Maklumat dan komunikasi,Subsektor,Perkhidmatan,2025,3,ST3 2025,174.5,6.9,103435,7.4,282,1
+Maklumat dan komunikasi,Subsektor,Perkhidmatan,2025,4,ST4 2025,173.8,6.9,103324,8,284,0.8
+Maklumat dan komunikasi,Subsektor,Perkhidmatan,2026,1,ST1 2026,172.8,3,103968,5.3,287,1.8
+Maklumat dan komunikasi,Subsektor,Perkhidmatan,2026,2,ST2 2026,181.7,3.8,106144,4.7,287,3.5
+Kewangan dan insurans,Subsektor,Perkhidmatan,2022,1,ST1 2022,123.8,-2.2,71268,-0.7,373,-0.7
+Kewangan dan insurans,Subsektor,Perkhidmatan,2022,2,ST2 2022,120.7,-3.4,69348,-1.1,373,-0.5
+Kewangan dan insurans,Subsektor,Perkhidmatan,2022,3,ST3 2022,127.6,2.4,70947,3.2,376,0.3
+Kewangan dan insurans,Subsektor,Perkhidmatan,2022,4,ST4 2022,132.8,5.8,71474,-0.5,378,1.5
+Kewangan dan insurans,Subsektor,Perkhidmatan,2023,1,ST1 2023,131.4,6.2,70701,-0.8,381,2.3
+Kewangan dan insurans,Subsektor,Perkhidmatan,2023,2,ST2 2023,110.3,-8.6,64183,-7.4,381,2
+Kewangan dan insurans,Subsektor,Perkhidmatan,2023,3,ST3 2023,120.7,-5.4,69042,-2.7,382,1.7
+Kewangan dan insurans,Subsektor,Perkhidmatan,2023,4,ST4 2023,114.7,-13.6,66597,-6.8,385,1.7
+Kewangan dan insurans,Subsektor,Perkhidmatan,2024,1,ST1 2024,120.8,-8.1,70314,-0.5,387,1.3
+Kewangan dan insurans,Subsektor,Perkhidmatan,2024,2,ST2 2024,120.3,9.1,69230,7.9,390,2.4
+Kewangan dan insurans,Subsektor,Perkhidmatan,2024,3,ST3 2024,119.2,-1.3,69853,1.2,390,2.2
+Kewangan dan insurans,Subsektor,Perkhidmatan,2024,4,ST4 2024,117.6,2.5,68425,2.7,393,2.1
+Kewangan dan insurans,Subsektor,Perkhidmatan,2025,1,ST1 2025,122.5,1.5,72342,2.9,386,-0.2
+Kewangan dan insurans,Subsektor,Perkhidmatan,2025,2,ST2 2025,120.7,0.3,70000,1.1,391,0.3
+Kewangan dan insurans,Subsektor,Perkhidmatan,2025,3,ST3 2025,115.2,-3.3,67799,-2.9,394,1
+Kewangan dan insurans,Subsektor,Perkhidmatan,2025,4,ST4 2025,116.9,-0.6,68261,-0.2,396,0.8
+Kewangan dan insurans,Subsektor,Perkhidmatan,2026,1,ST1 2026,122.6,0.02,71930,-0.6,392,1.6
+Kewangan dan insurans,Subsektor,Perkhidmatan,2026,2,ST2 2026,123.1,1.9,71181,1.7,399,2.1
+Hartanah dan perkhidmatan perniagaan,Subsektor,Perkhidmatan,2022,1,ST1 2022,23.2,6.4,13762,9,1134,0.7
+Hartanah dan perkhidmatan perniagaan,Subsektor,Perkhidmatan,2022,2,ST2 2022,24.5,16.3,14274,19.6,1152,2.7
+Hartanah dan perkhidmatan perniagaan,Subsektor,Perkhidmatan,2022,3,ST3 2022,25.1,25,14407,30.3,1169,4.7
+Hartanah dan perkhidmatan perniagaan,Subsektor,Perkhidmatan,2022,4,ST4 2022,24.4,18.5,14729,23.6,1176,4
+Hartanah dan perkhidmatan perniagaan,Subsektor,Perkhidmatan,2023,1,ST1 2023,24.3,4.8,14723,7,1183,4.2
+Hartanah dan perkhidmatan perniagaan,Subsektor,Perkhidmatan,2023,2,ST2 2023,25.2,2.5,14919,4.5,1187,3
+Hartanah dan perkhidmatan perniagaan,Subsektor,Perkhidmatan,2023,3,ST3 2023,25.3,0.7,15262,5.9,1190,1.8
+Hartanah dan perkhidmatan perniagaan,Subsektor,Perkhidmatan,2023,4,ST4 2023,26.1,7,15532,5.5,1197,1.8
+Hartanah dan perkhidmatan perniagaan,Subsektor,Perkhidmatan,2024,1,ST1 2024,26.1,7.2,15841,7.6,1195,1
+Hartanah dan perkhidmatan perniagaan,Subsektor,Perkhidmatan,2024,2,ST2 2024,26.6,5.7,15978,7.1,1211,2
+Hartanah dan perkhidmatan perniagaan,Subsektor,Perkhidmatan,2024,3,ST3 2024,27.4,8.1,16404,7.5,1219,2.4
+Hartanah dan perkhidmatan perniagaan,Subsektor,Perkhidmatan,2024,4,ST4 2024,28.1,7.7,16706,7.6,1216,1.6
+Hartanah dan perkhidmatan perniagaan,Subsektor,Perkhidmatan,2025,1,ST1 2025,28.3,8.5,16945,7,1218,2
+Hartanah dan perkhidmatan perniagaan,Subsektor,Perkhidmatan,2025,2,ST2 2025,28.7,8.1,17133,7.2,1226,1.2
+Hartanah dan perkhidmatan perniagaan,Subsektor,Perkhidmatan,2025,3,ST3 2025,29.2,6.7,17412,6.1,1236,1.5
+Hartanah dan perkhidmatan perniagaan,Subsektor,Perkhidmatan,2025,4,ST4 2025,29.3,4.4,17688,5.9,1235,1.5
+Hartanah dan perkhidmatan perniagaan,Subsektor,Perkhidmatan,2026,1,ST1 2026,30,5.9,17734,4.7,1243,2
+Hartanah dan perkhidmatan perniagaan,Subsektor,Perkhidmatan,2026,2,ST2 2026,30.5,6.2,17940,4.7,1251,2.1
+Perkhidmatan lain,Subsektor,Perkhidmatan,2022,1,ST1 2022,33.4,3.3,18265,5,2738,2
+Perkhidmatan lain,Subsektor,Perkhidmatan,2022,2,ST2 2022,33.2,1.5,18202,4.3,2756,2.7
+Perkhidmatan lain,Subsektor,Perkhidmatan,2022,3,ST3 2022,34.3,-0.9,18702,5.2,2781,3.3
+Perkhidmatan lain,Subsektor,Perkhidmatan,2022,4,ST4 2022,36.1,1.8,19796,3.5,2797,2.9
+Perkhidmatan lain,Subsektor,Perkhidmatan,2023,1,ST1 2023,34.5,3.3,18944,3.7,2797,2.2
+Perkhidmatan lain,Subsektor,Perkhidmatan,2023,2,ST2 2023,34.6,4.4,18896,3.8,2809,1.9
+Perkhidmatan lain,Subsektor,Perkhidmatan,2023,3,ST3 2023,35.2,2.4,19493,4.2,2818,1.4
+Perkhidmatan lain,Subsektor,Perkhidmatan,2023,4,ST4 2023,37.3,3.3,20605,4.1,2835,1.4
+Perkhidmatan lain,Subsektor,Perkhidmatan,2024,1,ST1 2024,35.5,3,19706,4,2817,0.7
+Perkhidmatan lain,Subsektor,Perkhidmatan,2024,2,ST2 2024,35.3,2,19505,3.2,2853,1.6
+Perkhidmatan lain,Subsektor,Perkhidmatan,2024,3,ST3 2024,36.5,3.7,20214,3.7,2860,1.5
+Perkhidmatan lain,Subsektor,Perkhidmatan,2024,4,ST4 2024,38.5,3.2,21416,3.9,2868,1.2
+Perkhidmatan lain,Subsektor,Perkhidmatan,2025,1,ST1 2025,36.2,2,20097,2,2895,2.8
+Perkhidmatan lain,Subsektor,Perkhidmatan,2025,2,ST2 2025,36.9,4.4,20379,4.5,2875,0.8
+Perkhidmatan lain,Subsektor,Perkhidmatan,2025,3,ST3 2025,38.1,4.6,21200,4.9,2895,1.2
+Perkhidmatan lain,Subsektor,Perkhidmatan,2025,4,ST4 2025,40.7,5.8,22535,5.2,2904,1.3
+Perkhidmatan lain,Subsektor,Perkhidmatan,2026,1,ST1 2026,38.1,5.2,21209,5.5,2913,0.6
+Perkhidmatan lain,Subsektor,Perkhidmatan,2026,2,ST2 2026,39.1,6,21428,5.1,2902,0.9
+Keseluruhan,Jumlah,,2022,1,ST1 2022,40.4,0.4,23200,2.8,,
+Keseluruhan,Jumlah,,2022,2,ST2 2022,41.3,1.6,23529,5.8,,
+Keseluruhan,Jumlah,,2022,3,ST3 2022,42.8,4.2,24434,10.6,,
+Keseluruhan,Jumlah,,2022,4,ST4 2022,43.3,2.3,25024,4,,
+Keseluruhan,Jumlah,,2023,1,ST1 2023,41.3,2.1,23773,2.5,,
+Keseluruhan,Jumlah,,2023,2,ST2 2023,40.8,-1.3,23501,-0.1,,
+Keseluruhan,Jumlah,,2023,3,ST3 2023,42.4,-1,24551,0.5,,
+Keseluruhan,Jumlah,,2023,4,ST4 2023,43.6,0.6,25113,0.4,,
+Keseluruhan,Jumlah,,2024,1,ST1 2024,42.3,2.5,24465,2.9,,
+Keseluruhan,Jumlah,,2024,2,ST2 2024,42.7,4.5,24506,4.3,,
+Keseluruhan,Jumlah,,2024,3,ST3 2024,44.1,4.1,25501,3.9,,
+Keseluruhan,Jumlah,,2024,4,ST4 2024,45,3.3,26082,3.9,,
+Keseluruhan,Jumlah,,2025,1,ST1 2025,43.4,2.5,25081,2.5,,
+Keseluruhan,Jumlah,,2025,2,ST2 2025,44.1,3.4,25353,3.5,,
+Keseluruhan,Jumlah,,2025,3,ST3 2025,46.1,4.6,26657,4.5,,
+Keseluruhan,Jumlah,,2025,4,ST4 2025,47.7,5.8,27454,5.3,,
+Keseluruhan,Jumlah,,2026,1,ST1 2026,45.5,4.8,26168,4.3,,
+Keseluruhan,Jumlah,,2026,2,ST2 2026,46.5,5.5,26595,4.9,,

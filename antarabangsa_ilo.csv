@@ -1,0 +1,131 @@
+Negara,Tahun,PerPekerja_USD,PerJam_USD,Jenis
+China,2015,27205.27,11.31,Anggaran
+China,2016,29028.72,12.11,Anggaran
+China,2017,31075.07,13.04,Anggaran
+China,2018,33216.43,14.02,Anggaran
+China,2019,35380.47,15.02,Anggaran
+China,2020,37115.57,16.54,Anggaran
+China,2021,39084.38,17.18,Anggaran
+China,2022,41096.08,17.59,Anggaran
+China,2023,42948.22,18.47,Anggaran
+China,2024,45485.57,19.65,Anggaran
+China,2025,47713.08,20.59,Unjuran
+China,2026,49725.74,21.44,Unjuran
+China,2027,51885.89,22.35,Unjuran
+Indonesia,2015,23462.44,11.49,Anggaran
+Indonesia,2016,24358.66,11.94,Anggaran
+Indonesia,2017,24981.45,12.28,Anggaran
+Indonesia,2018,25734.07,12.95,Anggaran
+Indonesia,2019,26238.12,13.24,Anggaran
+Indonesia,2020,25883.96,13.37,Anggaran
+Indonesia,2021,27058.34,14.25,Anggaran
+Indonesia,2022,27580.59,14.1,Anggaran
+Indonesia,2023,28184.22,14.39,Anggaran
+Indonesia,2024,29216.48,14.96,Anggaran
+Indonesia,2025,30219.71,15.46,Unjuran
+Indonesia,2026,31241.36,15.97,Unjuran
+Indonesia,2027,32348.94,16.51,Unjuran
+Jepun,2015,86505.93,50.32,Anggaran
+Jepun,2016,86184.05,50.28,Anggaran
+Jepun,2017,86636.65,50.69,Anggaran
+Jepun,2018,85447.14,50.86,Anggaran
+Jepun,2019,84254.66,51.25,Anggaran
+Jepun,2020,81321.41,50.92,Anggaran
+Jepun,2021,83621.68,52.02,Anggaran
+Jepun,2022,83925.77,52.23,Anggaran
+Jepun,2023,84645.28,52.55,Anggaran
+Jepun,2024,84328.01,52.14,Anggaran
+Jepun,2025,85251.88,52.71,Unjuran
+Jepun,2026,85856.2,53.09,Unjuran
+Jepun,2027,86576.26,53.53,Unjuran
+Malaysia,2015,59115.23,25.04,Anggaran
+Malaysia,2016,60708.78,25.66,Anggaran
+Malaysia,2017,62735.36,26.52,Anggaran
+Malaysia,2018,63942.87,27.33,Anggaran
+Malaysia,2019,65083.24,27.75,Anggaran
+Malaysia,2020,61442.23,27.35,Anggaran
+Malaysia,2021,62213.83,27.44,Anggaran
+Malaysia,2022,65445,28.16,Anggaran
+Malaysia,2023,66453.83,28.67,Anggaran
+Malaysia,2024,68621.39,29.68,Anggaran
+Malaysia,2025,70368.33,30.41,Unjuran
+Malaysia,2026,71951.09,31.08,Unjuran
+Malaysia,2027,73628.44,31.78,Unjuran
+Filipina,2015,19444.97,9.23,Anggaran
+Filipina,2016,20231.63,9.3,Anggaran
+Filipina,2017,22012.95,10.32,Anggaran
+Filipina,2018,22946.4,10.57,Anggaran
+Filipina,2019,23666.15,10.91,Anggaran
+Filipina,2020,22857.32,12.35,Anggaran
+Filipina,2021,23201.01,11.39,Anggaran
+Filipina,2022,22362.51,10.68,Anggaran
+Filipina,2023,23081.95,11.19,Anggaran
+Filipina,2024,23954.71,11.58,Anggaran
+Filipina,2025,24831.24,12.01,Unjuran
+Filipina,2026,25813.9,12.49,Unjuran
+Filipina,2027,26904.91,13.02,Unjuran
+Korea Selatan,2015,81620.29,36.28,Anggaran
+Korea Selatan,2016,83146.54,37.49,Anggaran
+Korea Selatan,2017,84743.58,38.39,Anggaran
+Korea Selatan,2018,87010.57,40.6,Anggaran
+Korea Selatan,2019,88034.13,41.93,Anggaran
+Korea Selatan,2020,88146.82,43.84,Anggaran
+Korea Selatan,2021,91218.62,45.52,Anggaran
+Korea Selatan,2022,90859.8,46.08,Anggaran
+Korea Selatan,2023,91051.79,45.48,Anggaran
+Korea Selatan,2024,92332.74,47.61,Anggaran
+Korea Selatan,2025,92941.44,47.93,Unjuran
+Korea Selatan,2026,94757.76,48.87,Unjuran
+Korea Selatan,2027,97051.52,50.05,Unjuran
+Singapura,2015,186855.5,81.3,Anggaran
+Singapura,2016,193050.99,83.68,Anggaran
+Singapura,2017,201660.13,86.76,Anggaran
+Singapura,2018,207097.58,90.11,Anggaran
+Singapura,2019,205909.74,88.59,Anggaran
+Singapura,2020,202595.52,91.46,Anggaran
+Singapura,2021,220256.2,96.77,Anggaran
+Singapura,2022,225271.03,96.83,Anggaran
+Singapura,2023,224057.36,96.6,Anggaran
+Singapura,2024,230839.89,99.45,Anggaran
+Singapura,2025,233055.42,100.42,Unjuran
+Singapura,2026,235310.62,101.39,Unjuran
+Singapura,2027,238490.2,102.77,Unjuran
+Thailand,2015,33361.93,14.92,Anggaran
+Thailand,2016,34706.45,15.63,Anggaran
+Thailand,2017,36301.35,16.38,Anggaran
+Thailand,2018,37364.72,16.91,Anggaran
+Thailand,2019,38366.03,17.45,Anggaran
+Thailand,2020,35914.82,17.14,Anggaran
+Thailand,2021,36342.27,17.24,Anggaran
+Thailand,2022,36906.06,16.98,Anggaran
+Thailand,2023,37084.7,17.03,Anggaran
+Thailand,2024,38298.36,17.49,Anggaran
+Thailand,2025,39200.97,17.89,Unjuran
+Thailand,2026,39975.98,18.24,Unjuran
+Thailand,2027,40989.96,18.69,Unjuran
+Amerika Syarikat,2015,133254.1,70.04,Anggaran
+Amerika Syarikat,2016,133282.1,69.87,Anggaran
+Amerika Syarikat,2017,134122.12,70.47,Anggaran
+Amerika Syarikat,2018,135921.02,70.92,Anggaran
+Amerika Syarikat,2019,137114.11,71.38,Anggaran
+Amerika Syarikat,2020,142544.73,76.35,Anggaran
+Amerika Syarikat,2021,146363.48,76.94,Anggaran
+Amerika Syarikat,2022,145652.92,76.88,Anggaran
+Amerika Syarikat,2023,147857.38,78.13,Anggaran
+Amerika Syarikat,2024,151532.02,80.56,Anggaran
+Amerika Syarikat,2025,154263.67,81.8,Unjuran
+Amerika Syarikat,2026,157362.04,83.44,Unjuran
+Amerika Syarikat,2027,159991.31,84.84,Unjuran
+Vietnam,2015,16009.84,7.6,Anggaran
+Vietnam,2016,17000.16,7.97,Anggaran
+Vietnam,2017,17973.35,8.7,Anggaran
+Vietnam,2018,18936.39,8.83,Anggaran
+Vietnam,2019,20457.8,9.89,Anggaran
+Vietnam,2020,21529.39,10.29,Anggaran
+Vietnam,2021,22082.41,10.85,Anggaran
+Vietnam,2022,23275.28,10.88,Anggaran
+Vietnam,2023,24513.19,11.35,Anggaran
+Vietnam,2024,26090.87,12.01,Anggaran
+Vietnam,2025,27589.02,12.7,Unjuran
+Vietnam,2026,28955.66,13.34,Unjuran
+Vietnam,2027,30425.94,14.02,Unjuran
